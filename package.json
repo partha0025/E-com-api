@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "E-commerce API",
+  "main": "E-com api.js",
+  "scripts": {
+    "start": "node E-com api.js",
+    "dev": "nodemon E-com api.js"
+  },
+  "keywords": [],
+  "author": "Partha Sarathy",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
